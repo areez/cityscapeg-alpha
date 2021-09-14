@@ -1,0 +1,24 @@
+{
+    "name": "alpha",
+    "version": "1.5.0",
+    "description": "Cityscape Global Ltd. | Template Alpha",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build && next export",
+        "start": "next start"
+    },
+    "author": "Valiant Tech Limited",
+    "license": "ISC",
+    "dependencies": {
+        "next": "^11.0.1",
+        "react": "^17.0.2",
+        "react-accessible-accordion": "^3.3.4",
+        "react-animate-on-scroll": "^2.1.5",
+        "react-dom": "^17.0.2",
+        "react-modal-video": "^1.2.8",
+        "react-owl-carousel3": "^2.2.5",
+        "react-particles-js": "^2.7.1",
+        "sass": "^1.35.2"
+    }
+}
